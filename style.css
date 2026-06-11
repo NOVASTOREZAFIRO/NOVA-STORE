@@ -1,0 +1,4 @@
+body{font-family:Arial;background:#111827;color:#fff;padding:20px}
+#products{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.card{background:#1f2937;padding:12px;border-radius:10px}
+button{background:#6C3BFF;color:#fff;border:none;padding:8px;border-radius:6px}

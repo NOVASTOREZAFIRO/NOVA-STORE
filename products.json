@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tecnología Producto 1",
+    "categoria": "Tecnología",
+    "precio": 9990
+  },
+  {
+    "id": 2,
+    "nombre": "Tecnología Producto 2",
+    "categoria": "Tecnología",
+    "precio": 10990
+  },
+  {
+    "id": 3,
+    "nombre": "Tecnología Producto 3",
+    "categoria": "Tecnología",
+    "precio": 11990
+  },
+  {
+    "id": 4,
+    "nombre": "Tecnología Producto 4",
+    "categoria": "Tecnología",
+    "precio": 12990
+  },
+  {
+    "id": 5,
+    "nombre": "Tecnología Producto 5",
+    "categoria": "Tecnología",
+    "precio": 13990
+  },
+  {
+    "id": 6,
+    "nombre": "Tecnología Producto 6",
+    "categoria": "Tecnología",
+    "precio": 14990
+  },
+  {
+    "id": 7,
+    "nombre": "Tecnología Producto 7",
+    "categoria": "Tecnología",
+    "precio": 15990
+  },
+  {
+    "id": 8,
+    "nombre": "Tecnología Producto 8",
+    "categoria": "Tecnología",
+    "precio": 16990
+  },
+  {
+    "id": 9,
+    "nombre": "Tecnología Producto 9",
+    "categoria": "Tecnología",
+    "precio": 17990
+  },
+  {
+    "id": 10,
+    "nombre": "Tecnología Producto 10",
+    "categoria": "Tecnología",
+    "precio": 18990
+  },
+  {
+    "id": 11,
+    "nombre": "Hogar Producto 1",
+    "categoria": "Hogar",
+    "precio": 19990
+  },
+  {
+    "id": 12,
+    "nombre": "Hogar Producto 2",
+    "categoria": "Hogar",
+    "precio": 20990
+  },
+  {
+    "id": 13,
+    "nombre": "Hogar Producto 3",
+    "categoria": "Hogar",
+    "precio": 21990
+  },
+  {
+    "id": 14,
+    "nombre": "Hogar Producto 4",
+    "categoria": "Hogar",
+    "precio": 22990
+  },
+  {
+    "id": 15,
+    "nombre": "Hogar Producto 5",
+    "categoria": "Hogar",
+    "precio": 23990
+  },
+  {
+    "id": 16,
+    "nombre": "Hogar Producto 6",
+    "categoria": "Hogar",
+    "precio": 24990
+  },
+  {
+    "id": 17,
+    "nombre": "Hogar Producto 7",
+    "categoria": "Hogar",
+    "precio": 25990
+  },
+  {
+    "id": 18,
+    "nombre": "Hogar Producto 8",
+    "categoria": "Hogar",
+    "precio": 26990
+  },
+  {
+    "id": 19,
+    "nombre": "Hogar Producto 9",
+    "categoria": "Hogar",
+    "precio": 27990
+  },
+  {
+    "id": 20,
+    "nombre": "Hogar Producto 10",
+    "categoria": "Hogar",
+    "precio": 28990
+  },
+  {
+    "id": 21,
+    "nombre": "Belleza Producto 1",
+    "categoria": "Belleza",
+    "precio": 29990
+  },
+  {
+    "id": 22,
+    "nombre": "Belleza Producto 2",
+    "categoria": "Belleza",
+    "precio": 30990
+  },
+  {
+    "id": 23,
+    "nombre": "Belleza Producto 3",
+    "categoria": "Belleza",
+    "precio": 31990
+  },
+  {
+    "id": 24,
+    "nombre": "Belleza Producto 4",
+    "categoria": "Belleza",
+    "precio": 32990
+  },
+  {
+    "id": 25,
+    "nombre": "Belleza Producto 5",
+    "categoria": "Belleza",
+    "precio": 33990
+  },
+  {
+    "id": 26,
+    "nombre": "Belleza Producto 6",
+    "categoria": "Belleza",
+    "precio": 34990
+  },
+  {
+    "id": 27,
+    "nombre": "Belleza Producto 7",
+    "categoria": "Belleza",
+    "precio": 35990
+  },
+  {
+    "id": 28,
+    "nombre": "Belleza Producto 8",
+    "categoria": "Belleza",
+    "precio": 36990
+  },
+  {
+    "id": 29,
+    "nombre": "Belleza Producto 9",
+    "categoria": "Belleza",
+    "precio": 37990
+  },
+  {
+    "id": 30,
+    "nombre": "Belleza Producto 10",
+    "categoria": "Belleza",
+    "precio": 38990
+  },
+  {
+    "id": 31,
+    "nombre": "Mascotas Producto 1",
+    "categoria": "Mascotas",
+    "precio": 39990
+  },
+  {
+    "id": 32,
+    "nombre": "Mascotas Producto 2",
+    "categoria": "Mascotas",
+    "precio": 40990
+  },
+  {
+    "id": 33,
+    "nombre": "Mascotas Producto 3",
+    "categoria": "Mascotas",
+    "precio": 41990
+  },
+  {
+    "id": 34,
+    "nombre": "Mascotas Producto 4",
+    "categoria": "Mascotas",
+    "precio": 42990
+  },
+  {
+    "id": 35,
+    "nombre": "Mascotas Producto 5",
+    "categoria": "Mascotas",
+    "precio": 43990
+  },
+  {
+    "id": 36,
+    "nombre": "Mascotas Producto 6",
+    "categoria": "Mascotas",
+    "precio": 44990
+  },
+  {
+    "id": 37,
+    "nombre": "Mascotas Producto 7",
+    "categoria": "Mascotas",
+    "precio": 45990
+  },
+  {
+    "id": 38,
+    "nombre": "Mascotas Producto 8",
+    "categoria": "Mascotas",
+    "precio": 46990
+  },
+  {
+    "id": 39,
+    "nombre": "Mascotas Producto 9",
+    "categoria": "Mascotas",
+    "precio": 47990
+  },
+  {
+    "id": 40,
+    "nombre": "Mascotas Producto 10",
+    "categoria": "Mascotas",
+    "precio": 48990
+  },
+  {
+    "id": 41,
+    "nombre": "Deportes Producto 1",
+    "categoria": "Deportes",
+    "precio": 49990
+  },
+  {
+    "id": 42,
+    "nombre": "Deportes Producto 2",
+    "categoria": "Deportes",
+    "precio": 50990
+  },
+  {
+    "id": 43,
+    "nombre": "Deportes Producto 3",
+    "categoria": "Deportes",
+    "precio": 51990
+  },
+  {
+    "id": 44,
+    "nombre": "Deportes Producto 4",
+    "categoria": "Deportes",
+    "precio": 52990
+  },
+  {
+    "id": 45,
+    "nombre": "Deportes Producto 5",
+    "categoria": "Deportes",
+    "precio": 53990
+  },
+  {
+    "id": 46,
+    "nombre": "Deportes Producto 6",
+    "categoria": "Deportes",
+    "precio": 54990
+  },
+  {
+    "id": 47,
+    "nombre": "Deportes Producto 7",
+    "categoria": "Deportes",
+    "precio": 55990
+  },
+  {
+    "id": 48,
+    "nombre": "Deportes Producto 8",
+    "categoria": "Deportes",
+    "precio": 56990
+  },
+  {
+    "id": 49,
+    "nombre": "Deportes Producto 9",
+    "categoria": "Deportes",
+    "precio": 57990
+  },
+  {
+    "id": 50,
+    "nombre": "Deportes Producto 10",
+    "categoria": "Deportes",
+    "precio": 58990
+  }
+]
